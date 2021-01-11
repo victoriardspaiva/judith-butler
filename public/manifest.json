@@ -1,8 +1,8 @@
 {
-    "name" : "Uatizap",
-    "short_name" : "zap fake",
-    "background_color" : "#00897b",
-    "theme_color" : "#00897b",
+    "name" : "Portifólio",
+    "short_name" : "Profile",
+    "background_color" : "#b39ddb",
+    "theme_color" : "#b39ddb",
     "display": "standalone",
     "start_url" : "./",
     "icons" : [
