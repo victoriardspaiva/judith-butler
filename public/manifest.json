@@ -1,0 +1,24 @@
+{
+    "name" : "Uatizap",
+    "short_name" : "zap fake",
+    "background_color" : "#00897b",
+    "theme_color" : "#00897b",
+    "display": "standalone",
+    "start_url" : "./",
+    "icons" : [
+        {
+        "src" : "../assets/img/logo.png",
+        "sizes" : "96X96",
+        "type" : "image/png"
+    },{
+        "src" : "../assets/img/logo.png",
+        "sizes" : "194x194",
+        "type" : "image/png"
+    },{
+        "src" : "../assets/img/logo.png",
+        "sizes" : "36x36",
+        "type" : "image/png"
+    }
+]
+
+}

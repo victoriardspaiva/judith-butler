@@ -1,0 +1,64 @@
+P - PROGRESSIVE
+W - WEB
+A - APP
+---------------------------------------
+Pelo Google - Padrão de desenvolvimento
+---------------------------------------
+Características:
+- Instalável - Por conta do Service Worker que vai cachear (guardar dados)
+- Seguro - (ele só roda no protocolo HTTPS)
+- Funciona Offline - Não precisa ter internet pra rodar
+- UX, UI - USER EXPERIENCE (UX), USER INTERFACE (UI)-Experiência do Usuário
+- Se asemelha aos aplicativos Nativos - (**SÃO WEB**)
+- Base de desenvolvimento - HTML, CSS, JS
+- Uso diversos recursos nativos do dispositivo como um APP NATIVO
+  - Camera
+  - GPS
+  - Giroscopio
+  - Rede móvel (detalhes)
+  - entre outros
+-----------------------------------------------------------------
+HTML - CSS - JS
+-----------------------------------------------------------------
+O que é preciso para implementar
+
+- Service Worker - Script Browser Side (Lado do navegador)
+  - Definir os arquivos de cache da aplicação (Tudo que é preciso para 
+    rodar a aplicação como: HTML,CSS,JS,imagens, fontes e etc..
+
+- Manifest JSON - Definir características da aplicação como:
+  - Ícone da aplicação (Que vai ser mostrado quando ele for instalado)
+  - Cor de fundo na tela de splash (Tela inicial ao abrir a aplicação)
+  - Cor de tema (cor que muda na barra superior do smartphone)
+  - Nome da aplicação, (nome que é mostrado ao ser instalada a aplicação)
+-------------------------------------------------------------------------
+
+NATIVA - Você usa um SDK - KIT DE DESENVOLVIMENTO DE SOFTWARE
+	ANDROID APPS NATIVAS - JAVA, kotlin, flutter, GO SDK
+	IOS IPHONE - SWIFT, OBJECT C SDK
+	WINDOWS C#, .Net
+-------------------------------------------------------------------------
+HÍBRIDA - HTML, CSS, JS - BRIDGE - IONIC, XAMARIN MS - CORDOVA
+	  REACT NATIVE - APPS NATIVAS
+-------------------------------------------------------------------------
+WEB - HTML, CSS, JS - APPS - NO CASO TEM A POSSIBILIDADE DO PWA
+
+HTML5 - TROUXE MUITAS API's - Application Programa Interface
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
